@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm sumansundarbehera</h1>
 <h3 align="center">A passionate python developer from India</h3>
-<img>![WhatsApp Image 2025-09-01 at 18 44 06](https://github.com/user-attachments/assets/8b486168-dd6e-4f83-9b83-ca8be9b43b37)</img>
+<img>(https://github.com/user-attachments/assets/8b486168-dd6e-4f83-9b83-ca8be9b43b37)</img>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumansundarbehera&label=Profile%20views&color=0e75b6&style=flat" alt="sumansundarbehera" /> </p>
