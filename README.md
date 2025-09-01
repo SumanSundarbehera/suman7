@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **sumanb91140@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h4 align="left">Connect with me:</h4>
 <p align="left">
 <a href="https://linkedin.com/in/suman sundar behera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suman sundar behera" height="30" width="40" /></a>
 </p>
